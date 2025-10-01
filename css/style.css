@@ -24,7 +24,6 @@ header {
   background-color: var(--cor-bg-card);
   border-bottom: 3px solid var(--amarelo-pd);
   width: 100%;
-  min-width: 85.33dvw;
   height: 3.75rem;
   padding: 0 1.25em;
 }
@@ -926,7 +925,7 @@ figcaption {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    gap: 1.4vw;
+    gap: 0.4vw;
     padding-bottom: 1vh;
   }
 }
